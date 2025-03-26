@@ -25,6 +25,4 @@ int main(){
     }
 
     cout<<"You have made $"<<answer<<" from commission.";
-
-    return 0;
 }
